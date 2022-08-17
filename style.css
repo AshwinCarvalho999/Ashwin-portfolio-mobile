@@ -3,6 +3,7 @@
   margin: 0;
   box-sizing: border-box;
   max-width: 100%;
+  max-height: 100%;
 }
 
 body {
@@ -567,6 +568,13 @@ article.featured {
   flex-direction: column;
   align-items: flex-start;
   width: 100%;
+  font-family: 'Inter', 'Segoe UI', Roboto, Ubuntu, 'Open Sans', sans-serif;
+}
+
+#form input,
+#UserName,
+placeholder {
+  font-family: 'Inter', 'Segoe UI', Roboto, Ubuntu, 'Open Sans', sans-serif;
 }
 
 #form input,
@@ -597,6 +605,7 @@ textarea {
   height: 140px;
   width: 100%;
   padding: 16px;
+  font-family: 'Inter', 'Segoe UI', Roboto, Ubuntu, 'Open Sans', sans-serif;
 }
 
 .submit-container {
@@ -607,8 +616,9 @@ textarea {
 }
 
 #submit {
-  margin: 24px 0 100px 15px;
+  margin: 24px 0 100px 100px;
   border: 0;
+  font-family: 'Inter', 'Segoe UI', Roboto, Ubuntu, 'Open Sans', sans-serif;
   font-size: 17px;
   line-height: 24px;
   font-weight: 700;
@@ -1214,15 +1224,6 @@ textarea {
   #form input {
     font-size: 10px;
     line-height: 12px;
-  }
-
-  #name,
-  #email {
-    padding: 8px 10px;
-  }
-
-  #email {
-    margin: 14px 0;
   }
 
   #contact-me textarea {
