@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio Mobile Full Version"
+# "Portfolio Mobile Full Version"
 
 > Here you will see my Portfolio Mobile where I have created the top navigation with customized logo and a hamberger menu icon. Header Text which contians some paragraphs and some social icon along with an various CSS Background image has been use to create the tamplates and also CSS grid, floats, flexbox concept was used and some javascript was used to add funtionality to the web elements which helps to make the web page look attractive.
 
