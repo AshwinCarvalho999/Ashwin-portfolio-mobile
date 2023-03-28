@@ -1,35 +1,45 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# "Portfolio Mobile Full Version"
+# My Portfolio
 
-> Here you will see my Portfolio Mobile where I have created the top navigation with customized logo and a hamberger menu icon. Header Text which contians some paragraphs and some social icon along with an various CSS Background image has been use to create the tamplates and also CSS grid, floats, flexbox concept was used and some javascript was used to add funtionality to the web elements which helps to make the web page look attractive.
+> Hello I'm Arturo Hermida and I'm a fullstack developer.
+
+ ## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+- copy this link `https://github.com/artbsc1992/My-Portfolio.git`.
+- get the directory that you want to clone the repository.
+- open the command prompt in this directory.
+- write `git clone https://github.com/artbsc1992/My-Portfolio.git`.
+- go to the repository folder in your command prompt `cd My-Portfolio`
+
 
 ## Built With
 
-- Html
+- HTML
 - CSS
 - Javascript
 
+## Live demo
+The live demo [link](https://artbsc1992.github.io/My-Portfolio/).
+
 ## Author
 
-👤 **Ashwin Carvalho**
+👤 **Arturo Hermida**
 
-- GitHub: https://github.com/AshwinCarvalho999
-- Twitter: https://twitter.com
-- LinkedIn: https://www.linkedin.com/in/ashwin-carvalho-5426701b1/
+- GitHub: [@Artbsc1992](https://github.com/Artbsc1992)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-## 🤝 Contributing
+## Contributions
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [Daniel Malo](https://github.com/Danie12345)
 
 ## Show your support
 
-Give a ⭐️ if you like it!
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
